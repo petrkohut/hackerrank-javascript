@@ -1,5 +1,5 @@
 #Hackerrank problems
-Some of mine solutions of Hackerrank problems
+Some of my solutions of Hackerrank problems
 
 
-More Info at my Hackerrank profile: [https://www.hackerrank.com/petrkohut](https://www.hackerrank.com/petrkohut)
+More info at my Hackerrank profile: [https://www.hackerrank.com/petrkohut](https://www.hackerrank.com/petrkohut)
